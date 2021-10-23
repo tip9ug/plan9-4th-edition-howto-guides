@@ -7,7 +7,7 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 
 
 ```{toctree}
-:caption: Plan 9 Howto Guides
+:caption: Plan 9 (4th Ed.) Howto Guides
 :hidden:
 :maxdepth: 2
 :glob:
