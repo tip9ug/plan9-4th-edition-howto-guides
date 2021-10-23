@@ -1,4 +1,4 @@
-## Acknowledgements
+## Acknowledgments
 
 Skip Tavakkolian
 
