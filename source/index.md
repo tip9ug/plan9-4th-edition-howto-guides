@@ -1,5 +1,5 @@
-Welcome to the Plan 9 (4th Edition) Howto Guides!
-===================================+=============
+Welcome to the Plan 9 (4th Edition) Howto Guides
+================================================
 
 ## Introduction
 
