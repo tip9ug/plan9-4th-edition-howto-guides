@@ -13,5 +13,5 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 :glob:
 
 howto/pxe-boot-raspberry-pi
-howto/acknowledgements
+howto/acknowledgments
 ```
